@@ -1,0 +1,54 @@
+.forexclub{
+    color: white;
+    font-size: 30px;
+    text-align: left;
+}
+.forexclub-article{
+    padding-left: 20px;
+}
+
+.block-klaric-academic {
+    background: url(../application-web/jk-one/dist/img/stories3.png) no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+
+.delimitador{
+    width:90%;
+	height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+.video-youtube{
+    height:0px;
+    width:100%;
+    max-width:1000px; /* Así establecemos el ancho máximo (si lo queremos) */
+    padding-top:56.25%; /* Relación: 16/9 = 56.25% */
+    position:relative;
+}
+  
+.video-youtube iframe{
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+}
+
+.header-course{
+	background: url(../application-web/jk-one/dist/img/bg-slider.png) no-repeat;
+	background-size: cover;
+	background-position: center center;
+    width: auto;
+    height:500px;
+}
+
+.header-course-66{
+	background: url(../application-web/jk-one/dist/img/stories3.png) no-repeat;
+	background-size: cover;
+	background-position: center center;
+    width: auto;
+    height:500px;
+}
